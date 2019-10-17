@@ -12,40 +12,40 @@ export default class ThirdPage extends React.Component {
         justifyContent: 'space-between',
         padding: 20}}>
           <Button
-            title="Lab 1"
-            onPress={() => Linking.openURL('https://docs.google.com/document/d/e/2PACX-1vRdSvPYrCqDiJmitOqr-kKBodeDM9yzZhuQjmCNHtflNJQHN2Fp-38s6Kf_XfxqQUGVIRCJoLB2ZS6h/pub')}
+            title="Atwood's Machine"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1f6ZOqYSOrDBeNXDrlK-A8O3CiHnmINkW7jEbQZnjAn8/edit?usp=sharing')}
           />
           <Button
-            title="Lab 2"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Ballistic Pendulum"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1Jlfr5Olpy0BXTBkjO3EYq80hqR6Imvz6Iw0ipvAtxho/edit?usp=sharing')}
           />
           <Button
-            title="Lab 3"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Simple Harmonic Motion: Spring and Simple Pendulum"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1yE4UrdfVAyIJBE3fNc7JuC1032N2_BcxzsdKUh0uU0U/edit?usp=sharing')}
           />
           <Button
-            title="Lab 4"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Angular Momentum"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1NVJwbXgc_tRu8TlaRU8EoGxdOvDv0lsvpVTjiLiJBFo/edit?usp=sharing')}
           />
           <Button
-            title="Lab 5"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="The Velocity of Sound"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1YEGBdVpRzPTB02MvqP7sCLyTepVyukFow9HWcSXcgKI/edit?usp=sharing')}
           />
           <Button
-            title="Lab 6"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Heat Capacity and Latent Heat"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1kHDKRdh8IHw4vHVSccsQwGELHJtwQ54_9hP99YAPvxQ/edit?usp=sharing')}
           />
           <Button
-            title="Lab 7"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Ohm’s Law and Resistivity: Series and Parallel DC Circuits"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1xtAVIy3hZkLDmMB-fav4bpEB-I8yrOHQIrJULss5i4o/edit?usp=sharing')}
           />
           <Button
-            title="Lab 8"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Current Balance"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1lcq3-IVVK-dNaJvuchuqkBdwpOxQe4aZn4kzZ3mcwic/edit?usp=sharing')}
           />
           <Button
-            title="Lab 9"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="E/M for the Electron"
+            onPress={() => Linking.openURL('https://docs.google.com/document/d/1MVV5ZcPsY8y6RvZqZaOs1GxSeIU1Uprq1CKdjR9qIM8/edit?usp=sharing')}
           />
         </View>
       
